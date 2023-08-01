@@ -1,17 +1,14 @@
 <template>
   <div class="wrapper">
-    <Header></Header>
+    <p>ヘッダー</p>
     <NuxtPage />
-    <Footer></Footer>
+    <p>フッター</p>
   </div>
 </template>
 
 <script>
-import { Header } from "../components/organisms/Header";
-import { Footer } from "../components/organisms/Footer";
-
 export default {
-  components: { Header, Footer },
+  
 };
 </script>
 

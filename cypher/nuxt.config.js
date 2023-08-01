@@ -3,7 +3,6 @@ export default defineNuxtConfig({
   css: ["normalize.css/normalize.css"],
 
   ssr: false,
-  mode: "spa",
 
   vite: {
     css: {

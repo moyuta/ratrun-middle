@@ -22,17 +22,6 @@
           </li>
         </ul>
       </div>
-      <!-- <div class="nav-sns is-sp">
-            <a href="" class="nav-sns__icon">
-              <img src="@/assets/svg/icon-facebook.svg" alt="facebook" />
-            </a>
-            <a href="" class="nav-sns__icon">
-              <img src="@/assets/svg/icon-instagram.svg" alt="instagram" />
-            </a>
-            <a href="" class="nav-sns__icon">
-              <img src="@/assets/svg/icon-pintarest.svg" alt="pintarest" />
-            </a>
-          </div> -->
     </div>
   </header>
 </template>
